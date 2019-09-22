@@ -1,6 +1,8 @@
 Template
 ========
 
+- `Panduan Keluarga Bahagia <https://www.navi.id/>`_
+
 $project will solve your problem of where to start with documentation,
 by providing a basic explanation of how to do it easily.
 
@@ -39,4 +41,3 @@ License
 -------
 
 - `Nasehat Pernikahan <https://www.indah.web.id/>`_
-- `Panduan Keluarga <https://www.navi.id/>`_
