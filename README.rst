@@ -2,6 +2,7 @@ Template
 ========
 
 - `Panduan Keluarga Bahagia <https://www.navi.id/>`_
+github.com/karinov/sekolah-jepang
 
 $project will solve your problem of where to start with documentation,
 by providing a basic explanation of how to do it easily.
